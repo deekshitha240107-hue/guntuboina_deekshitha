@@ -21,7 +21,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deekshithaguntuboina&show_icons=true&theme=radical" alt="Deekshitha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deekshitha_guntuboina&show_icons=true&theme=radical" alt="Deekshitha's GitHub stats" />
 </p>
 
 ---
