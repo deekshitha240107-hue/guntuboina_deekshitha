@@ -6,7 +6,7 @@
 🌍 I'm from **India**  
 🎓 I'm currently a **student**  
 💻 Skilled in **C++** and building strong foundations in **Data Structures**  
-☁️ Currently learning **Cloud Computing**  
+☁️ Currently learning **Data Analytics**  
 📫 Reach me at: **deekshitha240107@gmail.com**
 
 ---
